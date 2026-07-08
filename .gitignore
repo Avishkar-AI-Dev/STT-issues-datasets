@@ -1,1 +1,8 @@
 .DS_Store
+analysis-calls.json
+analysis.py
+avishkar_db.chat_history.json
+data.csv
+extract_stt_clips.py
+transliterate_transcripts.py
+.cache
